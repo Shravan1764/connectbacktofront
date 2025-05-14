@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">connectbacktofront</string>
+    <string name="name">Enter your name</string>
+    <string name="cgpa">Enter your cgpa</string>
+    <string name="percentage">Enter your percentage</string>
+    <string name="submit">Submit</string>
+    <string name="register">Register</string>
+    <string name="login">Login\n</string>
+    <string name="gender">Enter your Gender</string>
+    <string name="email">Enter your Email</string>
+    <string name="pass">Enter password</string>
+</resources>
